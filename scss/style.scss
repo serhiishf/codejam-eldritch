@@ -83,11 +83,12 @@ body {
     }
 
     &__iogSothoth {
-        background-image: url('../assets/Ancients/iogSothoth.png');
+        background-image: url('../assets/Ancients/IogSothoth.png');
+        font-size: inherit;
     }
 
     &__shubNiggurath {
-        background-image: url('../assets/Ancients/shubNiggurath.png');
+        background-image: url('../assets/Ancients/ShubNiggurath.png');
     }
 }
 .card {

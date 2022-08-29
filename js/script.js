@@ -336,5 +336,5 @@ function showCards(){
 
 function insertRouteHtml(item){
     
-    document.querySelector('.game__visible-deck').innerHTML = `<img class="game__img" src="/assets/MythicCards/${item.color}/${item.cardFace}" alt="">`;
+    document.querySelector('.game__visible-deck').innerHTML = `<img class="game__img" src="assets/MythicCards/${item.color}/${item.cardFace}" alt="">`;
 }

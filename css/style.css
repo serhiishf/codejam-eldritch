@@ -152,10 +152,11 @@ body {
   background-image: url("../assets/Ancients/Cthulhu.png");
 }
 .characters__iogSothoth {
-  background-image: url("../assets/Ancients/iogSothoth.png");
+  background-image: url("../assets/Ancients/IogSothoth.png");
+  font-size: inherit;
 }
 .characters__shubNiggurath {
-  background-image: url("../assets/Ancients/shubNiggurath.png");
+  background-image: url("../assets/Ancients/ShubNiggurath.png");
 }
 
 .card {
